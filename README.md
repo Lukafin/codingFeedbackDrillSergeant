@@ -2,6 +2,9 @@
 
 This is a PyQt6-based desktop application designed to help users improve their coding skills by identifying and correcting bad code examples.
 
+<img width="1204" alt="Screenshot 2024-09-20 at 09 55 35" src="https://github.com/user-attachments/assets/4d5f9809-c347-401b-908d-c1b3b0004356">
+
+
 ## Features
 
 - Generate bad code examples for a specified area of improvement
